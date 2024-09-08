@@ -1,5 +1,2 @@
 #!/bin/bash
-# This script prints the effective username of the current user
-
-# Print the effective username
 whoami
